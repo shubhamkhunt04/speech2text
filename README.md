@@ -4,3 +4,5 @@
 
 You need to have installed Python3 and any IDE in your System.
 
+:heart_eyes: Thanks
+
